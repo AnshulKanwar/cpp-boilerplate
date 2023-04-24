@@ -2,7 +2,7 @@ Boilerplate for starting a c++ project
 
 # Features
 
-- [x] Modern directory structured
+- [x] Modern directory structure
 - [x] Makefile configured
 - [x] VS Code Build task configured
 - [x] VS Code Debug task configured
