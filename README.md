@@ -4,8 +4,8 @@ Boilerplate for starting a c++ project
 
 - [x] Modern directory structure
 - [x] Makefile configured
-- [x] VS Code Build task configured
-- [x] VS Code Debug task configured
+- [x] VS Code Build task configured (<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>)
+- [x] VS Code Debug task configured (<kbd>Control</kbd> + <kbd>F5</kbd>)
 
 # Usage
 
